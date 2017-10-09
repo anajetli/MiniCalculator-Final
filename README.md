@@ -2,7 +2,7 @@
 This is a complete Android Mini Calculator
 
 
-
+```
   __  __       _     _ _                                       
  |  \/  |     | |   (_) |                                      
  | \  / | ___ | |__  _| | ___                                  
@@ -20,7 +20,7 @@ This is a complete Android Mini Calculator
  |_____/ \___| \_/ \___|_|\___/| .__/|_| |_| |_|\___|_| |_|\__|
                                | |                             
                                |_|       
-
+```
 
 
 
@@ -41,12 +41,14 @@ How to make Signed APK and Upload to PlayStore?
 	Watch:	https://www.youtube.com/watch?v=POhINN4turc
   
 
+```
    _             _           _     _     ___ _               __ _                 
   /_\  _ __   __| |_ __ ___ (_) __| |   / _ \ | __ _ _   _  / _\ |_ ___  _ __ ___ 
  //_\\| '_ \ / _` | '__/ _ \| |/ _` |  / /_)/ |/ _` | | | | \ \| __/ _ \| '__/ _ \
 /  _  \ | | | (_| | | | (_) | | (_| | / ___/| | (_| | |_| | _\ \ || (_) | | |  __/
 \_/ \_/_| |_|\__,_|_|  \___/|_|\__,_| \/    |_|\__,_|\__, | \__/\__\___/|_|  \___|
                                                      |___/                        
+```
 You can download the "Currency Converter Mini Calculator" for Android
 	https://play.google.com/store/apps/details?id=com.atifnaseem.minicalculator
 
@@ -54,8 +56,10 @@ You can download the "Currency Converter Mini Calculator" for Android
 
 
 by
+```
  ____ ____ ____ ____ _________ ____ ____ ____ ____ ____ ____ 
 ||A |||t |||i |||f |||       |||N |||a |||s |||e |||e |||m ||
 ||__|||__|||__|||__|||_______|||__|||__|||__|||__|||__|||__||
 |/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|/__\|/__\|
+```
 
