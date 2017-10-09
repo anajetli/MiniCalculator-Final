@@ -29,7 +29,7 @@ Complete Mini Calculator tutorial is here:
 Part 1: https://youtu.be/tj-bSlZvRCQ 
 Part 2: https://youtu.be/782_MBAZRuw
 
-Download APK: 
+Download APK:
 v1 .....    https://drive.google.com/file/d/0B7JHFwLGAPotUlI2UGllTk9sOFE
 
 
