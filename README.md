@@ -37,6 +37,19 @@ signed APK
 v2 .....    https://drive.google.com/open?id=0B7JHFwLGAPotZ21ObVJaRzA0czg
 
 
+How to make Signed APK and Upload to PlayStore?
+	Watch:	https://www.youtube.com/watch?v=POhINN4turc
+  
+
+   _             _           _     _     ___ _               __ _                 
+  /_\  _ __   __| |_ __ ___ (_) __| |   / _ \ | __ _ _   _  / _\ |_ ___  _ __ ___ 
+ //_\\| '_ \ / _` | '__/ _ \| |/ _` |  / /_)/ |/ _` | | | | \ \| __/ _ \| '__/ _ \
+/  _  \ | | | (_| | | | (_) | | (_| | / ___/| | (_| | |_| | _\ \ || (_) | | |  __/
+\_/ \_/_| |_|\__,_|_|  \___/|_|\__,_| \/    |_|\__,_|\__, | \__/\__\___/|_|  \___|
+                                                     |___/                        
+You can download the "Currency Converter Mini Calculator" for Android
+	https://play.google.com/store/apps/details?id=com.atifnaseem.minicalculator
+
 
 
 
